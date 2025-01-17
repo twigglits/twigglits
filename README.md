@@ -2,7 +2,7 @@ Jean Naudé
 
 Education:
 
-Msc Computer Science (ESIEE, Paris, France)
+Msc Computer Science (ESIEE, Paris, France) /n
 Bsc Information Technology (Peasron Institute, Cape Town, South Africa)
 
 Languages:
