@@ -1,5 +1,8 @@
 Jean Naudé
 
+LinkedIn: <br>
+https://www.linkedin.com/in/jean-naude/
+
 Education:
 
 Msc Computer Science (ESIEE, Paris, France) <br>
