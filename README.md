@@ -7,12 +7,12 @@ Bsc Information Technology (Peasron Institute, Cape Town, South Africa) <br>
 
 Languages:
 
-English
+English <br>
 Afrikaans
 
 Competencies:
 
-Python
-C++
-C
-Bash
+Python <br>
+C++ <br>
+C <br>
+Bash <br>
