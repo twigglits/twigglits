@@ -19,3 +19,4 @@ Python <br>
 C++ <br>
 C <br>
 Bash <br>
+Rust <br>
