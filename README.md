@@ -8,7 +8,7 @@ Education:
 Msc Computer Science (ESIEE, Paris, France) <br>
 Bsc Information Technology (Peasron Institute, Cape Town, South Africa) <br>
 
-Competencies:
+Skills:
 
 Python <br>
 C++ <br>
