@@ -6,7 +6,7 @@ https://www.linkedin.com/in/jean-naude/
 Education:
 
 Msc Computer Science (ESIEE, Paris, France) <br>
-Bsc Information Technology (Peasron Institute, Cape Town, South Africa) <br>
+Bsc Information Technology (Pearson Institute, Cape Town, South Africa) <br>
 
 Skills:
 
