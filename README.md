@@ -14,4 +14,5 @@ Python <br>
 C++ <br>
 C <br>
 Bash <br>
-Rust <br>
+Typescript <br>
+React <br>
