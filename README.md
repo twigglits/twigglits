@@ -3,7 +3,7 @@ Jean Naudé
 LinkedIn: <br>
 https://www.linkedin.com/in/jean-naude/
 
-CV:
+CV: <br>
 https://twigglits.github.io/cv/
 
 Education:
