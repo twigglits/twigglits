@@ -21,5 +21,6 @@ Typescript <br>
 React <br>
 
 Interests:
-Cake
-Rust
+
+Cake <br>
+Rust <br>
