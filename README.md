@@ -14,6 +14,7 @@ Bsc Information Technology (Pearson Institute, Cape Town, South Africa) <br>
 Skills:
 
 Python <br>
+Rust <br>
 C++ <br>
 C <br>
 Bash <br>
@@ -23,4 +24,3 @@ React <br>
 Interests:
 
 Cake <br>
-Rust <br>
