@@ -1,10 +1,13 @@
 Jean Naudé
 
-LinkedIn: <br>
-https://www.linkedin.com/in/jean-naude/
+Portfolio: <br>
+https://jeannaude.dev/
 
 CV: <br>
 https://twigglits.github.io/cv/
+
+LinkedIn: <br>
+https://www.linkedin.com/in/jean-naude/
 
 Education:
 
@@ -23,4 +26,5 @@ React <br>
 
 Interests:
 
+Number Theory <br>
 Cake <br>
