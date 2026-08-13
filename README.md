@@ -5,6 +5,8 @@ Jean Naudé
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-naude/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--6248--2680-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-6248-2680)
 
+[<img src="https://www.thegitcity.com/api/share-card/twigglits?format=landscape" alt="Jean Naudé's GitHub profile as a 3D pixel-art building in Git City" width="600">](https://www.thegitcity.com/dev/twigglits)
+
 Education:
 
 Msc Computer Science (ESIEE, Paris, France) <br>
