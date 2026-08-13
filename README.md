@@ -1,13 +1,8 @@
 Jean Naudé
 
-Portfolio: <br>
-https://jeannaude.dev/
-
-CV: <br>
-https://twigglits.github.io/cv/
-
-LinkedIn: <br>
-https://www.linkedin.com/in/jean-naude/
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6E4AFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jeannaude.dev/)
+[![CV](https://img.shields.io/badge/CV-Read-2F855A?style=for-the-badge&logo=readdotcv&logoColor=white)](https://twigglits.github.io/cv/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-naude/)
 
 Education:
 
