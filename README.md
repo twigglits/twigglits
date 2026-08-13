@@ -13,10 +13,7 @@ Bsc Information Technology (Pearson Institute, Cape Town, South Africa) <br>
 
 Skills:
 
-<img src="https://skillicons.dev/icons?i=py,rust,cpp,c,bash,ts,react&theme=dark" alt="Python, Rust, C++, C, Bash, TypeScript, React" height="48">
-
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" height="34">
-<img src="https://img.shields.io/badge/Lean%204-5C2D91?style=for-the-badge" alt="Lean 4" height="34">
+<img src="https://skillicons.dev/icons?i=py,rust,cpp,c,bash,ts,react,terraform&theme=dark" alt="Python, Rust, C++, C, Bash, TypeScript, React, Terraform" height="48"> <img src="skills-extra.png" alt="CUDA, Lean 4" height="48">
 
 Interests:
 
